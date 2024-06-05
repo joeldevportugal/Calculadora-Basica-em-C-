@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\C#\Calculadora\Calculadora\Calculadora\bin\x64\Debug\Calculadora.exe.config
+C:\Users\HP\Desktop\C#\Calculadora\Calculadora\Calculadora\bin\x64\Debug\Calculadora.exe
+C:\Users\HP\Desktop\C#\Calculadora\Calculadora\Calculadora\bin\x64\Debug\Calculadora.pdb
+C:\Users\HP\Desktop\C#\Calculadora\Calculadora\Calculadora\obj\x64\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\Calculadora\Calculadora\Calculadora\obj\x64\Debug\Calculadora.Properties.Resources.resources
+C:\Users\HP\Desktop\C#\Calculadora\Calculadora\Calculadora\obj\x64\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C#\Calculadora\Calculadora\Calculadora\obj\x64\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\Calculadora\Calculadora\Calculadora\obj\x64\Debug\Calculadora.exe
+C:\Users\HP\Desktop\C#\Calculadora\Calculadora\Calculadora\obj\x64\Debug\Calculadora.pdb
+C:\Users\HP\Desktop\C#\Calculadora\Calculadora\Calculadora\obj\x64\Debug\Calculadora.FrCalculadora.resources
